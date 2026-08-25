@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Boyi Dai</title>
+  <desc id="desc">Computer Engineering student at UVA. Interned at Capital One this summer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#12182b"/>
+      <stop offset="100%" stop-color="#1a1630"/>
+    </linearGradient>
+    <linearGradient id="uva" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffb347"/>
+      <stop offset="100%" stop-color="#E57200"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="240" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="238" rx="17" fill="none" stroke="#2a3348" stroke-width="1.5"/>
+
+  <rect x="0" y="28" width="7" height="184" rx="3.5" fill="url(#uva)">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="820" cy="48" r="52" fill="#E57200" opacity="0.08"/>
+  <circle cx="860" cy="200" r="70" fill="#232D4B" opacity="0.55"/>
+
+  <text x="40" y="58" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" letter-spacing="4.2" fill="#8b93a7">ABOUT ME</text>
+
+  <text x="40" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#f4f7ff">Boyi Dai</text>
+
+  <rect x="40" y="132" width="168" height="3" rx="1.5" fill="url(#uva)"/>
+
+  <rect x="40" y="168" width="9" height="22" rx="2" fill="#E57200">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.15s" repeatCount="indefinite" keyTimes="0;0.45;0.55;1"/>
+  </rect>
+
+  <g font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="20" fill="#f0f6fc">
+    <text x="62" y="186">
+      Computer Engineering student at UVA
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        keyTimes="0;0.26;0.32;1"
+        values="1;1;0;0"/>
+    </text>
+    <text x="62" y="186" opacity="0">
+      Interned at Capital One this summer
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        keyTimes="0;0.32;0.36;0.58;0.64;1"
+        values="0;0;1;1;0;0"/>
+    </text>
+    <text x="62" y="186" opacity="0">
+      B.S. Computer Engineering, Class of 2028
+      <animate
+        attributeName="opacity"
+        dur="12s"
+        repeatCount="indefinite"
+        keyTimes="0;0.64;0.68;0.90;0.96;1"
+        values="0;0;1;1;0;0"/>
+    </text>
+  </g>
+</svg>
