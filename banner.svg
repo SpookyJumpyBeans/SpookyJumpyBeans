@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
   <title id="title">Boyi Dai</title>
-  <desc id="desc">Computer Engineering student at UVA. Interested in AI, compilers, and systems.</desc>
+  <desc id="desc">Computer Engineering student at UVA. Interested in systems, infrastructure, and compilers.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b1020"/>
@@ -45,7 +45,7 @@
         values="1;1;0;0"/>
     </text>
     <text x="62" y="186" opacity="0">
-      Interested in AI, compilers, and systems
+      Interested in systems, infrastructure, and compilers
       <animate
         attributeName="opacity"
         dur="8s"
