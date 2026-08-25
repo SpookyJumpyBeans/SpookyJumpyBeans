@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
   <title id="title">Boyi Dai</title>
-  <desc id="desc">Computer Engineering student at UVA. Interned at Capital One this summer.</desc>
+  <desc id="desc">Computer Engineering student at UVA. Interested in AI, compilers, and systems.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b1020"/>
@@ -39,28 +39,19 @@
       Computer Engineering student at UVA
       <animate
         attributeName="opacity"
-        dur="12s"
+        dur="8s"
         repeatCount="indefinite"
-        keyTimes="0;0.26;0.32;1"
+        keyTimes="0;0.40;0.48;1"
         values="1;1;0;0"/>
     </text>
     <text x="62" y="186" opacity="0">
-      Interned at Capital One this summer
+      Interested in AI, compilers, and systems
       <animate
         attributeName="opacity"
-        dur="12s"
+        dur="8s"
         repeatCount="indefinite"
-        keyTimes="0;0.32;0.36;0.58;0.64;1"
-        values="0;0;1;1;0;0"/>
-    </text>
-    <text x="62" y="186" opacity="0">
-      B.S. Computer Engineering, Class of 2028
-      <animate
-        attributeName="opacity"
-        dur="12s"
-        repeatCount="indefinite"
-        keyTimes="0;0.64;0.68;0.90;0.96;1"
-        values="0;0;1;1;0;0"/>
+        keyTimes="0;0.48;0.56;0.92;1"
+        values="0;0;1;1;0"/>
     </text>
   </g>
 </svg>
