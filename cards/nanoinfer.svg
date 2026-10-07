@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="222" viewBox="0 0 900 222" role="img" aria-label="nanoinfer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#12182b"/>
+      <stop offset="100%" stop-color="#1a1630"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffb347"/>
+      <stop offset="100%" stop-color="#E57200"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="222" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="220" rx="15" fill="none" stroke="#2a3348" stroke-width="1.5"/>
+  <rect x="0" y="22" width="6" height="178" rx="3" fill="url(#accent)"/>
+  <circle cx="860" cy="30" r="46" fill="#E57200" opacity="0.07"/>
+  <text x="32" y="40" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="2.6" fill="#8b93a7">SYSTEMS AND ML INFRASTRUCTURE  ·  FEATURED</text>
+  <text x="32" y="80" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#f4f7ff">nanoinfer</text>
+  <rect x="32" y="92" width="56" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="32" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#c3cad8">An LLM inference engine written from scratch, with no transformers or</text>
+  <text x="32" y="140" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#c3cad8">llama.cpp: safetensors parsing, BPE, attention, KV cache, sampling,</text>
+  <text x="32" y="162" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#c3cad8">and int8 kernels in Rust SIMD.</text>
+  <rect x="32" y="178" width="62" height="22" rx="11" fill="#3776AB" fill-opacity="0.16" stroke="#3776AB" stroke-opacity="0.55"/><circle cx="43" cy="189" r="3.2" fill="#3776AB"/><text x="51" y="193" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#e6edf3">Python</text>
+  <rect x="102" y="178" width="49" height="22" rx="11" fill="#dea584" fill-opacity="0.16" stroke="#dea584" stroke-opacity="0.55"/><circle cx="113" cy="189" r="3.2" fill="#dea584"/><text x="121" y="193" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#e6edf3">Rust</text>
+  <rect x="159" y="178" width="62" height="22" rx="11" fill="#4c8fd6" fill-opacity="0.16" stroke="#4c8fd6" stroke-opacity="0.55"/><circle cx="170" cy="189" r="3.2" fill="#4c8fd6"/><text x="178" y="193" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#e6edf3">WebGPU</text>
+  <line x1="582" y1="34" x2="582" y2="188" stroke="#2a3348" stroke-width="1.5"/>
+  <text x="610" y="76" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" fill="url(#accent)">1.4–1.6×</text>
+  <text x="610" y="98" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">faster decode than</text>
+  <text x="610" y="114" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">llama.cpp Q8_0</text>
+  <text x="610" y="160" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" fill="#f4f7ff">+0.13%</text>
+  <text x="610" y="182" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">int8 quality cost</text>
+  <text x="610" y="198" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">llama.cpp's: +0.87%</text>
+</svg>

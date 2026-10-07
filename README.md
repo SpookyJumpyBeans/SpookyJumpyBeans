@@ -20,24 +20,25 @@
 
 ## Projects
 
-### Systems and ML infrastructure
+<p align="center">
+  <a href="https://github.com/SpookyJumpyBeans/nanoinfer"><img src="./cards/nanoinfer.svg" width="900" alt="nanoinfer: LLM inference engine from scratch, 1.4 to 1.6x faster decode than llama.cpp Q8_0" /></a>
+</p>
 
-- **[nanoinfer](https://github.com/SpookyJumpyBeans/nanoinfer)**: an LLM inference engine written from scratch in Python and Rust SIMD. Its int8 path decodes Qwen2.5-0.5B 1.4 to 1.6× faster than llama.cpp's Q8_0 on the same laptop, at a sixth of the quality loss.
+<p align="center">
+  <a href="https://github.com/SpookyJumpyBeans/tinyquery"><img src="./cards/tinyquery.svg" width="49%" alt="tinyquery: single-node SQL engine" /></a>
+  <a href="https://github.com/SpookyJumpyBeans/tinydelta"><img src="./cards/tinydelta.svg" width="49%" alt="tinydelta: table format with a JSON commit log" /></a>
+</p>
 
-### Data systems
+<p align="center">
+  <a href="https://github.com/SpookyJumpyBeans/RAPTOR"><img src="./cards/raptor.svg" width="49%" alt="RAPTOR: Autotune from scratch in NumPy" /></a>
+  <a href="https://github.com/SpookyJumpyBeans/audio-analyzer"><img src="./cards/audio-analyzer.svg" width="49%" alt="audio-analyzer: Sallen-Key analog audio analyzer" /></a>
+</p>
 
-- **[tinyquery](https://github.com/SpookyJumpyBeans/tinyquery)**: a single-node SQL engine with a parser, iterator plans, hash join and hash aggregate. [Live demo](https://spookyjumpybeans.github.io/tinyquery/), running in the browser under Pyodide.
-- **[tinydelta](https://github.com/SpookyJumpyBeans/tinydelta)**: a single-node table format with an atomic JSON commit log, time travel and optimistic concurrency.
+<p align="center">
+  <a href="https://github.com/SpookyJumpyBeans/toy-cpu"><img src="./cards/toy-cpu.svg" width="49%" alt="toy-cpu: 8-bit multi-cycle CPU in VHDL" /></a>
+  <a href="https://github.com/SpookyJumpyBeans/leetcode-submissions"><img src="./cards/leetcode.svg" width="49%" alt="leetcode-submissions: LeetCode and NeetCode solutions" /></a>
+</p>
 
-### Computer architecture
-
-- **[toy-cpu](https://github.com/SpookyJumpyBeans/toy-cpu)**: an 8-bit multi-cycle CPU in structural VHDL with hardwired control and a 14-instruction ISA, synthesized for a Cyclone V FPGA in 73 ALMs. [Browser simulator](https://spookyjumpybeans.github.io/toy-cpu/).
-
-### Signals and analog hardware
-
-- **[RAPTOR](https://github.com/SpookyJumpyBeans/RAPTOR)**: Autotune from scratch in NumPy, with STFT pitch tracking, equal-temperament note quantization and pitch correction.
-- **[audio-analyzer](https://github.com/SpookyJumpyBeans/audio-analyzer)**: a two-band analog audio analyzer built on Sallen-Key active filters, simulated in KiCad and measured on hardware within 3.7% of theory.
-
-### Algorithms
-
-- **[leetcode-submissions](https://github.com/SpookyJumpyBeans/leetcode-submissions)**: my accepted LeetCode and NeetCode solutions in Java and C++, grouped by topic and synced automatically by a tool I wrote.
+<p align="center">
+  Live demos: <a href="https://spookyjumpybeans.github.io/tinyquery/">tinyquery</a> &nbsp;·&nbsp; <a href="https://spookyjumpybeans.github.io/toy-cpu/">toy-cpu simulator</a>
+</p>
