@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="222" viewBox="0 0 900 222" role="img" aria-label="nanocompile, in progress">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#12182b"/>
+      <stop offset="100%" stop-color="#1a1630"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c4b5fd"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="222" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="220" rx="15" fill="none" stroke="#2a3348" stroke-width="1.5"/>
+  <rect x="0" y="22" width="6" height="178" rx="3" fill="url(#accent)"/>
+  <circle cx="860" cy="30" r="46" fill="#8b5cf6" opacity="0.07"/>
+  <text x="32" y="40" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="2.6" fill="#8b93a7">COMPILERS  ·  THE SEQUEL TO NANOINFER</text>
+  <text x="32" y="80" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="700" fill="#f4f7ff">nanocompile</text>
+  <rect x="226" y="58" width="122" height="24" rx="12" fill="#8b5cf6" fill-opacity="0.18" stroke="#8b5cf6" stroke-opacity="0.7"/>
+  <g transform="translate(240 77) rotate(40) scale(0.8)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0;-30;0;0" keyTimes="0;0.15;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+      <rect x="-1.2" y="-10" width="2.4" height="11" rx="1" fill="#c4b5fd"/>
+      <rect x="-2.5" y="-13.5" width="8" height="4.6" rx="1" fill="#c4b5fd"/>
+      <path d="M-2.5 -13.2 L-6.5 -15 L-6 -12.6 L-2.5 -10.6 Z" fill="#c4b5fd"/>
+    </g>
+  </g>
+  <text x="256" y="74" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="10.5" fill="#c4b5fd">IN PROGRESS</text>
+  <rect x="32" y="92" width="56" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="32" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#c3cad8">A tensor compiler for the model nanoinfer runs by hand: a graph IR</text>
+  <text x="32" y="140" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#c3cad8">with symbolic shapes, fusion, AVX2 schedules and C codegen, each</text>
+  <text x="32" y="162" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#c3cad8">phase checked against nanoinfer before the next one starts.</text>
+  <rect x="32" y="178" width="62" height="22" rx="11" fill="#3776AB" fill-opacity="0.16" stroke="#3776AB" stroke-opacity="0.55"/><circle cx="43" cy="189" r="3.2" fill="#3776AB"/><text x="51" y="193" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#e6edf3">Python</text>
+  <rect x="102" y="178" width="36" height="22" rx="11" fill="#A8B9CC" fill-opacity="0.16" stroke="#A8B9CC" stroke-opacity="0.55"/><circle cx="113" cy="189" r="3.2" fill="#A8B9CC"/><text x="121" y="193" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#e6edf3">C</text>
+  <rect x="146" y="178" width="49" height="22" rx="11" fill="#0071C5" fill-opacity="0.16" stroke="#0071C5" stroke-opacity="0.55"/><circle cx="157" cy="189" r="3.2" fill="#0071C5"/><text x="165" y="193" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#e6edf3">AVX2</text>
+  <line x1="582" y1="34" x2="582" y2="188" stroke="#2a3348" stroke-width="1.5"/>
+  <text x="610" y="76" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="34" font-weight="700" fill="url(#accent)">bitwise</text>
+  <text x="610" y="98" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">identical logits to</text>
+  <text x="610" y="114" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">nanoinfer, 494M params</text>
+  <text x="610" y="146" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="1.5" fill="#8b93a7">PHASE 1 OF 8</text>
+  <rect x="610" y="156" width="28" height="8" rx="4" fill="url(#accent)"/>
+  <rect x="642" y="156" width="28" height="8" rx="4" fill="#8b5cf6" fill-opacity="0.35"><animate attributeName="fill-opacity" values="0.35;0.08;0.35" dur="2s" repeatCount="indefinite"/></rect>
+  <rect x="674" y="156" width="28" height="8" rx="4" fill="#2a3348"/>
+  <rect x="706" y="156" width="28" height="8" rx="4" fill="#2a3348"/>
+  <rect x="738" y="156" width="28" height="8" rx="4" fill="#2a3348"/>
+  <rect x="770" y="156" width="28" height="8" rx="4" fill="#2a3348"/>
+  <rect x="802" y="156" width="28" height="8" rx="4" fill="#2a3348"/>
+  <rect x="834" y="156" width="28" height="8" rx="4" fill="#2a3348"/>
+  <text x="610" y="186" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">done: graph IR</text>
+  <text x="610" y="202" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#8b93a7">next: C codegen</text>
+</svg>
