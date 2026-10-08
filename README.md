@@ -31,6 +31,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/SpookyJumpyBeans/nanocompile"><img src="./cards/nanocompile.svg" width="900" alt="nanocompile, in progress: a tensor compiler for nanoinfer's model, phase 1 of 8 done with logits bitwise identical to nanoinfer" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/SpookyJumpyBeans/tinyquery"><img src="./cards/tinyquery.svg" width="49%" alt="tinyquery: single-node SQL engine" /></a>
   <a href="https://github.com/SpookyJumpyBeans/tinydelta"><img src="./cards/tinydelta.svg" width="49%" alt="tinydelta: table format with a JSON commit log" /></a>
 </p>
