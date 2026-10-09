@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SpookyJumpyBeans/nanocompile"><img src="./cards/nanocompile.svg" width="900" alt="nanocompile, in progress: a tensor compiler for nanoinfer's model, phase 1 of 8 done with logits bitwise identical to nanoinfer" /></a>
+  <a href="https://github.com/SpookyJumpyBeans/nanocompile"><img src="./cards/nanocompile.svg" width="900" alt="nanocompile, in progress: a tensor compiler for nanoinfer's model, phase 2 of 8 done, generating C with tokens identical to nanoinfer" /></a>
 </p>
 
 <p align="center">
