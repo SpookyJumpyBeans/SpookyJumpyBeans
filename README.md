@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./card.svg" width="900" alt="Boyi Dai, Computer Engineering at UVA. Systems from scratch: an LLM inference engine, a tensor compiler, a SQL engine, an 8-bit CPU. Currently building nanocompile, a tensor compiler for nanoinfer, phase 3 of 8." />
+  <img src="./card.svg" width="900" alt="Boyi Dai, Computer Engineering at UVA. Interested in systems, infrastructure and compilers. Built from scratch: an LLM inference engine, a tensor compiler, a SQL engine, an 8-bit CPU. Currently building nanocompile, a tensor compiler for nanoinfer, phase 3 of 8." />
 </p>
 
 ### Languages

@@ -1,18 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Boyi Dai, Computer Engineering at UVA. Currently building nanocompile.">
-  <rect width="900" height="180" rx="8" fill="#f4f1ea"/>
-  <text x="36" y="60" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="24" font-weight="700" fill="#1f1f1f">Boyi Dai</text>
-  <text x="36" y="86" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#555">Computer Engineering @ UVA</text>
-  <text x="36" y="126" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#333">Systems from scratch: an LLM inference engine,</text>
-  <text x="36" y="146" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#333">a tensor compiler, a SQL engine, an 8-bit CPU.</text>
-  <line x1="540" y1="40" x2="540" y2="148" stroke="#d8d2c4"/>
-  <text x="572" y="60" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="1.5" fill="#8a8170">CURRENTLY</text>
-  <text x="572" y="88" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700" fill="#1f1f1f">nanocompile</text>
-  <text x="572" y="110" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#555">a tensor compiler for nanoinfer</text>
-  <text x="572" y="138" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#555">phase 3 of 8: kernel fusion</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Boyi Dai, Computer Engineering at UVA. Interested in systems, infrastructure and compilers. Built from scratch: an LLM inference engine, a tensor compiler, a SQL engine, an 8-bit CPU. Currently building nanocompile, a tensor compiler for nanoinfer, phase 3 of 8.">
+  <rect width="900" height="200" rx="8" fill="#f4f1ea"/>
+  <text x="36" y="58" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="24" font-weight="700" fill="#1f1f1f">Boyi Dai</text>
+  <text x="36" y="84" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#555">Computer Engineering @ UVA</text>
+  <text x="36" y="110" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#8a8170">systems · infrastructure · compilers</text>
+  <text x="36" y="148" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#333">Built from scratch: an LLM inference engine,</text>
+  <text x="36" y="168" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#333">a tensor compiler, a SQL engine, an 8-bit CPU.</text>
+  <line x1="540" y1="40" x2="540" y2="168" stroke="#d8d2c4"/>
+  <text x="572" y="64" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="1.5" fill="#8a8170">CURRENTLY</text>
+  <text x="572" y="94" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700" fill="#1f1f1f">nanocompile</text>
+  <text x="572" y="116" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#555">a tensor compiler for nanoinfer</text>
+  <text x="572" y="150" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" fill="#555">phase 3 of 8: kernel fusion</text>
   <g fill="#1f1f1f">
-    <rect x="572" y="148" width="26" height="5" rx="2.5"/><rect x="602" y="148" width="26" height="5" rx="2.5"/><rect x="632" y="148" width="26" height="5" rx="2.5"/>
+    <rect x="572" y="160" width="26" height="5" rx="2.5"/><rect x="602" y="160" width="26" height="5" rx="2.5"/><rect x="632" y="160" width="26" height="5" rx="2.5"/>
   </g>
   <g fill="#d8d2c4">
-    <rect x="662" y="148" width="26" height="5" rx="2.5"/><rect x="692" y="148" width="26" height="5" rx="2.5"/><rect x="722" y="148" width="26" height="5" rx="2.5"/><rect x="752" y="148" width="26" height="5" rx="2.5"/><rect x="782" y="148" width="26" height="5" rx="2.5"/>
+    <rect x="662" y="160" width="26" height="5" rx="2.5"/><rect x="692" y="160" width="26" height="5" rx="2.5"/><rect x="722" y="160" width="26" height="5" rx="2.5"/><rect x="752" y="160" width="26" height="5" rx="2.5"/><rect x="782" y="160" width="26" height="5" rx="2.5"/>
   </g>
 </svg>
